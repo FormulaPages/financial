@@ -1,0 +1,15 @@
+{
+  "name": "formula-financial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel FINANCIAL.es6 -m umd --out-file FINANCIAL.js"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "dependencies": {
+    "formula-pmt": "^1.0.1"
+  }
+}

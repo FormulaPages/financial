@@ -1,7 +1,7 @@
 {
   "name": "formula-financial",
   "version": "0.1.0",
-  "description": "",
+  "description": "The financial functions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +11,18 @@
   "license": "MIT",
   "dependencies": {
     "formula-pmt": "^1.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/financial.git"
+  },
+  "keywords": [
+    "Spreadsheet",
+    "Financial"
+  ],
+  "bugs": {
+    "url": "https://github.com/FormulaPages/financial/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/financial#readme"
 }
